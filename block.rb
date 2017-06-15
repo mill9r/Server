@@ -6,4 +6,5 @@ class Blocks
 	
 	
 	#advance task 2. Add first commit
+	#advance task 2. Add second commit
 end
